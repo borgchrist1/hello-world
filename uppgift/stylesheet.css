@@ -1,0 +1,186 @@
+p
+{
+
+font-size: 18;
+}
+
+h1
+{
+
+font-size: 28;
+}
+
+h2
+{
+
+font-size: 23;
+}
+
+body
+{
+color: color: #fff;;
+/*width: 100%;*/
+margin:0px;
+padding: 0px;
+}
+
+#wrapper
+{
+/*background: white;*/
+/*width: 960px;*/
+margin: 0 auto;
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+padding: 2.25em 1.6875em;
+background-image: -webkit-repeating-radial-gradient(center center, rgba(0,0,0,.2), rgba(0,0,0,.2) 1px, transparent 1px, transparent 100%);
+background-image: -moz-repeating-radial-gradient(center center, rgba(0,0,0,.2), rgba(0,0,0,.2) 1px, transparent 1px, transparent 100%);
+background-image: -ms-repeating-radial-gradient(center center, rgba(0,0,0,.2), rgba(0,0,0,.2) 1px, transparent 1px, transparent 100%);
+background-image: repeating-radial-gradient(center center, rgba(0,0,0,.2), rgba(0,0,0,.2) 1px, transparent 1px, transparent 100%);
+-webkit-background-size: 3px 3px;
+-moz-background-size: 3px 3px;
+background-size: 3px 3px;
+
+
+
+
+}
+
+.head
+{
+  width: 100%;
+  position: fixed;
+  background: black;
+  height: 87px;
+}
+
+
+
+.head form
+{
+  float: right;
+  vertical-align: center;
+  padding-top: 32px;
+  color: white;
+  padding-right: 10px;
+}
+
+h1
+{
+  color: white;
+}
+
+header h1
+{
+float: left;
+vertical-align: middle;
+
+text-align: left,center;
+margin: 0px;
+padding: 25px;
+background: black;
+}
+
+.head-loggo
+{
+
+  align-content: middle;
+  height: auto;
+
+}
+
+img
+{
+align-content: center;
+float: left;
+margin: 20px;
+padding: 0;
+}
+
+header h2
+{
+text-align: center;
+margin: 5px;
+padding: 5px;
+border: 0px;
+}
+
+article
+{
+margin:  10px;
+padding: 10px;
+border: 0px;
+}
+
+section
+{
+background: white;
+margin: 10px auto;
+margin-top: 75px;
+padding: 10px;
+width: 800px;
+border-radius: 15px;
+margin-bottom: -75px;
+
+}
+
+section img
+{
+  padding: 5px;
+}
+
+section p
+{
+ margin: 10px;
+ padding: 10px;
+}
+header h2
+{
+margin: 10px;
+}
+
+footer
+{
+margin: 10px;
+padding: 10;
+border: 0px;
+}
+
+footer small
+{
+float: left;
+padding: 5px;
+margin-left: 5px;
+}
+
+form
+{
+
+}
+
+input
+{
+
+
+}
+
+
+
+
+
+.foot
+{
+display: block;
+height: 150px;
+display:flex;
+align-content: center;
+background: black;
+margin: 0px;
+padding: 0px;
+}
+
+.foot p
+{
+
+color: white;
+padding-bottom: 5px;
+}
